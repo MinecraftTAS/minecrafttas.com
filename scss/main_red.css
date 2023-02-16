@@ -116,7 +116,7 @@ html {
 
 body {
   font-family: Asap, sans-serif;
-  background-color: #525252;
+  background-color: #161618;
   color: white; }
 
 a {
@@ -166,7 +166,7 @@ nav.mainNav ul {
   flex-direction: column;
   width: fit-content;
   overflow-y: auto;
-  background-color: #525252; }
+  background-color: #161618; }
   .toc ul {
     margin-left: 1em;
     list-style: circle; }
@@ -203,10 +203,10 @@ nav.mainNav ul {
     .toc--wrapper #TableOfContents {
       margin-left: 16px;
       padding: 1px 20px;
-      background-color: #5e5e5e;
+      background-color: #2e2e33;
       border-radius: 20px; }
     .toc--wrapper .buttonclose {
-      background-color: #525252;
+      background-color: #161618, 20%;
       background-image: url(/images/OpenCloseArrow.svg);
       background-repeat: no-repeat;
       background-size: cover;
@@ -286,7 +286,7 @@ section {
   transition: background-color .5s ease; }
 
 .hovered:hover {
-  background-color: #856220; }
+  background-color: #5c4416; }
 
 .transitioner {
   transition: transform .75s ease, background-color .5s ease; }
