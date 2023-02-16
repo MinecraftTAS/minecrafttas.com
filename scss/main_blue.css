@@ -3,6 +3,14 @@
   font-family: 'Asap';
   src: url("/fonts/Asap-VariableFont_wght.ttf"); }
 
+@font-face {
+  font-family: 'Asap-Condensed-Regular';
+  src: url("/fonts/condensed/AsapCondensed-Regular.ttf"); }
+
+@font-face {
+  font-family: 'Asap-Condensed-SemiBold';
+  src: url("/fonts/condensed/AsapCondensed-SemiBold.ttf"); }
+
 .invite {
   display: flex;
   flex-direction: column;
@@ -237,12 +245,15 @@ section {
       height: auto;
       margin: 10px 0; }
     section article h1 {
+      font-family: Asap-Condensed-SemiBold, sans-serif;
       font-size: 3em;
       margin-bottom: 0px; }
     section article h2 {
+      font-family: Asap-Condensed-SemiBold, sans-serif;
       margin-top: 70px;
       font-size: 2em; }
     section article h3 {
+      font-family: Asap-Condensed-SemiBold, sans-serif;
       margin-top: 40px;
       font-size: 1.5em; }
       section article h3 img {
