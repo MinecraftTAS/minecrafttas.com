@@ -239,6 +239,7 @@ section {
   align-items: center; }
   section article {
     margin: 40px;
+    width: 90vw;
     max-width: 43em; }
     section article .screenshot img {
       width: 100%;
@@ -278,13 +279,14 @@ section {
       border-radius: 6px; }
     section article .highlight {
       overflow-x: auto;
+      width: 100%;
       margin-bottom: 20px; }
       section article .highlight code {
         background-color: inherit;
         padding: inherit;
         border-radius: inherit; }
       section article .highlight > pre {
-        width: fit-content;
+        width: min-content;
         padding: 16px;
         line-height: 1.45;
         border-radius: 6px; }
