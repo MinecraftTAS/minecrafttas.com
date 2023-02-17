@@ -280,7 +280,7 @@ section {
     section article .highlight {
       overflow-x: auto;
       width: 100%;
-      font-size: 13px;
+      font-size: 12pt;
       border-radius: 10px;
       margin-bottom: 20px; }
       section article .highlight div {
@@ -288,7 +288,11 @@ section {
       section article .highlight code {
         background-color: inherit;
         padding: inherit;
-        border-radius: inherit; }
+        border-radius: inherit;
+        text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%; }
       section article .highlight table {
         width: min-content; }
     section article details summary {
