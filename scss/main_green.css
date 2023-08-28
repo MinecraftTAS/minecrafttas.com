@@ -661,6 +661,25 @@ figcaption {
   opacity: 100%;
   transition: opacity .5s ease; }
 
+.next-previous {
+  display: flex;
+  justify-content: space-between; }
+  .next-previous a {
+    padding: 15px;
+    padding-bottom: 18px; }
+  .next-previous .next::before {
+    content: "«";
+    color: goldenrod;
+    margin-left: -2px;
+    padding-right: 8px;
+    font-size: 1.4em; }
+  .next-previous .prev::after {
+    content: "»";
+    color: goldenrod;
+    margin-left: 2px;
+    padding-left: 8px;
+    font-size: 1.4em; }
+
 /*==============================Footer*/
 footer {
   display: flex;
