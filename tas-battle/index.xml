@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TAS Battle on Home</title><link>https://test.minecrafttas.com/tas-battle/</link><description>Recent content in TAS Battle on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-battle/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation</title><link>https://test.minecrafttas.com/tas-battle/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-battle/installation/</guid><description>In contrast to plugins, TAS-Battle requires a &amp;ldquo;clientside&amp;rdquo; mod to enable slow motion in Minecraft.
-For that reason you need to install this mod yourself.
-Installing in the vanilla launcher Head over to https://fabricmc.net/use/installer/ Click &amp;ldquo;Download for Windows&amp;rdquo;. Open the downloaded file. Select &amp;ldquo;1.19.4&amp;rdquo; as the Minecraft version. The loader version should be always kept at the newest Next we need to download the required mods: TAS-Battle: https://data.mgnet.work/tasbattle/client.jar Put them into .</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TAS Battle on Home</title><link>https://test.minecrafttas.com/tas-battle/</link><description>Recent content in TAS Battle on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-battle/index.xml" rel="self" type="application/rss+xml"/><item><title>Installation</title><link>https://test.minecrafttas.com/tas-battle/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-battle/installation/</guid><description>&lt;p>In contrast to plugins, TAS-Battle requires a &amp;ldquo;clientside&amp;rdquo; mod to enable slow motion in Minecraft.&lt;br>
+For that reason you need to install this mod yourself.&lt;/p>
+&lt;h2 id="installing-in-the-vanilla-launcher">Installing in the vanilla launcher&lt;/h2>
+&lt;ol>
+&lt;li>Head over to &lt;a href="https://fabricmc.net/use/installer/">https://fabricmc.net/use/installer/&lt;/a>&lt;/li>
+&lt;li>Click &amp;ldquo;Download for Windows&amp;rdquo;. &lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tas-battle/installation/chrome_l3kI2GxWQa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Open the downloaded file.&lt;/li>
+&lt;li>Select &amp;ldquo;1.19.4&amp;rdquo; as the Minecraft version. The loader version should be always kept at the newest &lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tas-battle/installation/javaw_cbhrXLYhqa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Next we need to download the required mods:
+&lt;ul>
+&lt;li>TAS-Battle: &lt;a href="https://data.mgnet.work/tasbattle/client.jar">https://data.mgnet.work/tasbattle/client.jar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Put them into &lt;code>.minecraft/mods/&lt;/code>.&lt;br>
+&lt;strong>Remove mods from other Minecraft Versions from this folder, otherwise the game might not start!&lt;/strong>&lt;/li>
+&lt;li>Start the Minecraft launcher, select the correct profile and start the game.&lt;/li>
+&lt;/ol>
+&lt;h2 id="installing-for-multimc">Installing for MultiMC&lt;/h2>
+&lt;p>MultiMC is an alternative Minecraft-Launcher that allows you to create seperate .minecraft folders/instances.&lt;/p></description></item></channel></rss>

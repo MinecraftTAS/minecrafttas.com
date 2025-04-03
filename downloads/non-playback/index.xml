@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Non Playback on Home</title><link>https://test.minecrafttas.com/downloads/non-playback/</link><description>Recent content in Non Playback on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/downloads/non-playback/index.xml" rel="self" type="application/rss+xml"/><item><title>LoTAS</title><link>https://test.minecrafttas.com/downloads/non-playback/lotas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/non-playback/lotas/</guid><description>A non-playback mod for versions 1.8.9-1.20.1
-Features Tickratechanger Tickrate 0/Pause server and client Item duplication (Duping) Savestates Drop Manipulation Dragon Manipulation Spawn Manipulation Ingame timer And more!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Non Playback on Home</title><link>https://test.minecrafttas.com/downloads/non-playback/</link><description>Recent content in Non Playback on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/downloads/non-playback/index.xml" rel="self" type="application/rss+xml"/><item><title>LoTAS</title><link>https://test.minecrafttas.com/downloads/non-playback/lotas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/non-playback/lotas/</guid><description>&lt;p>A non-playback mod for versions 1.8.9-1.20.1&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Tickratechanger&lt;/li>
+&lt;li>Tickrate 0/Pause server and client&lt;/li>
+&lt;li>Item duplication (Duping)&lt;/li>
+&lt;li>Savestates&lt;/li>
+&lt;li>Drop Manipulation&lt;/li>
+&lt;li>Dragon Manipulation&lt;/li>
+&lt;li>Spawn Manipulation&lt;/li>
+&lt;li>Ingame timer&lt;/li>
+&lt;li>And more!&lt;/li>
+&lt;/ul>
+
+
+&lt;a href="https://github.com/MinecraftTAS/LoTAS/releases">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/DownloadButton.svg" height="80" alt="Download Button">&lt;/a>
+&lt;a href="https://github.com/MinecraftTAS/LoTAS">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a>
+&lt;a href="https://www.curseforge.com/minecraft/mc-mods/lotas">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/CurseForge.svg" height="80" alt="Curseforge">&lt;/a></description></item></channel></rss>

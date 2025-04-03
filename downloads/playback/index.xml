@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Playback on Home</title><link>https://test.minecrafttas.com/downloads/playback/</link><description>Recent content in Playback on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/downloads/playback/index.xml" rel="self" type="application/rss+xml"/><item><title>TASmod</title><link>https://test.minecrafttas.com/downloads/playback/tasmod/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod/</guid><description>The main playback mod, currently only for version 1.12.2
-Features Tickratechanger Tickrate 0/Pause server and client Item duplication (Duping) Fast Savestates</description></item><item><title>TASmod-OG</title><link>https://test.minecrafttas.com/downloads/playback/tasmod-og/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod-og/</guid><description>Experimental TASmod version for MC version 1.0</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Playback on Home</title><link>https://test.minecrafttas.com/downloads/playback/</link><description>Recent content in Playback on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/downloads/playback/index.xml" rel="self" type="application/rss+xml"/><item><title>TASmod</title><link>https://test.minecrafttas.com/downloads/playback/tasmod/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod/</guid><description>&lt;p>The main playback mod, currently only for version 1.12.2&lt;/p>
+&lt;h4 id="features">Features&lt;/h4>
+&lt;ul>
+&lt;li>Tickratechanger&lt;/li>
+&lt;li>Tickrate 0/Pause server and client&lt;/li>
+&lt;li>Item duplication (Duping)&lt;/li>
+&lt;li>Fast Savestates&lt;/li>
+&lt;/ul>
+
+
+&lt;a href="https://github.com/MinecraftTAS/TASmod/releases">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/DownloadButton.svg" height="80" alt="Download Button">&lt;/a>
+&lt;a href="https://github.com/MinecraftTAS/TASmod/">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a>
+&lt;a href="https://www.curseforge.com/minecraft/mc-mods/tasmod">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/CurseForge.svg" height="80" alt="Curseforge">&lt;/a></description></item><item><title>TASmod-OG</title><link>https://test.minecrafttas.com/downloads/playback/tasmod-og/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod-og/</guid><description>&lt;p>Experimental TASmod version for MC version 1.0&lt;/p>
+
+
+&lt;a href="https://github.com/MinecraftTAS/TASmod-OG">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a></description></item></channel></rss>

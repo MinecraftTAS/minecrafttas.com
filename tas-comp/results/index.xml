@@ -1,38 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hall of Fame on Home</title><link>https://test.minecrafttas.com/tas-comp/results/</link><description>Recent content in Hall of Fame on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-comp/results/index.xml" rel="self" type="application/rss+xml"/><item><title>Task 1</title><link>https://test.minecrafttas.com/tas-comp/results/task1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task1/</guid><description>Announced on 18.11.2020
-From now on, any strat leaking will result in disqualification, also do not talk about the tasks outside of tc-general-task1
-Tomb Destroyer%
-Task: Destroy every (coloured) terracotta block in and outside a desert temple.
-Version: 1.12.2
-Seed: -2579494896997723047
-Additional Information:
-You don&amp;rsquo;t need to collect the terracotta blocks, just destroy them. It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 2</title><link>https://test.minecrafttas.com/tas-comp/results/task2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task2/</guid><description>Announced on 02.12.2020
-Start a bakery%
-Task: Create all baked goods in Minecraft (cake, cookie, piece of bread, pumpkin pie) without the use of villagers
-Version: 1.12.2
-Start on the world file below
-Additional Information:
-Glitchless! Duping is not allowed, except duping buckets, to make it not too long. You are allowed to dupe either empty buckets or filled buckets. It is not allowed to abuse invulnerability frames after joining It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 3</title><link>https://test.minecrafttas.com/tas-comp/results/task3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task3/</guid><description>Announced on 12.03.2021
-Stack of Lime Wool%
-Task: Obtain a stack of lime wool set seed glitched
-Version: 1.16.1
-Seed: 16327378876057492
-Starting location: 18 63 27. Just generate a world with allow cheats to true, type in /tp 18 63 27 and make a savestate
-Difficulty: Easy
-Additional Information:
-Glitched It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 4</title><link>https://test.minecrafttas.com/tas-comp/results/task4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4/</guid><description>Announced on 19.11.2021
-Burnout%
-Task: Make a redstone torch reach the burnout state
-Version: 1.12.2
-Seed: -8599623488174955388
-Starting location: 0 79 0. (Should be no teleporting necessary)
-Difficulty: Peaceful
-Additional Information:
-Glitchless The redstone torch has to be placed on top or on the side of bedrock It is a requirement that you play with the TorchBurnout mod uploaded below this message. This will send a chat message once a redstone torch is burned out.</description></item><item><title>Task 4.5</title><link>https://test.minecrafttas.com/tas-comp/results/task4.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4.5/</guid><description>Announced on 15.07.2023
-This task was part of the Multi-Game TAS Competition find more about that here:
-https://discord.gg/PbY433kFQN
-TASk 4.5 - Selfie% Take one or more ingame screenshot(s) in double F5 mode of 3 subjects:
-Of yourself wearing a fancy hat (Wearing a helmet with an armor trim or colored leather cap) Of yourself, while riding an entity Of yourself, being within 4 blocks distance to a hostile enemy. The enemy has to have aggro on you, passive endermen don&amp;rsquo;t count.</description></item><item><title>Task5</title><link>https://test.minecrafttas.com/tas-comp/results/task5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task5/</guid><description>Announced on 17.11.2023
-TASk 5 - ItemGreed% You have 30 seconds. Collect as many unique items as possible. Highest item count wins!
-Items are counted when entering the inventory, you don&amp;rsquo;t have to keep the items for it to count.
-World: Use the world download below Difficulty: Easy Version: 1.18.2 Type: Glitched!
-Additional Info Enderman teleportation manipulation is NOT allowed. However, enderman spawn manipulation is allowed. Spawning zombies or skeletons with armor or tools/weapons is NOT allowed.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hall of Fame on Home</title><link>https://test.minecrafttas.com/tas-comp/results/</link><description>Recent content in Hall of Fame on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-comp/results/index.xml" rel="self" type="application/rss+xml"/><item><title>Task 1</title><link>https://test.minecrafttas.com/tas-comp/results/task1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task1/</guid><description>&lt;p>&lt;em>Announced on 18.11.2020&lt;/em>&lt;/p>
+&lt;p>From now on, any strat leaking will result in disqualification, also do not talk about the tasks outside of tc-general-task1&lt;br>
+Tomb Destroyer%&lt;br>
+Task: Destroy every (coloured) terracotta block in and outside a desert temple.&lt;/p>
+&lt;p>Version: 1.12.2&lt;/p>
+&lt;p>Seed: &lt;code>-2579494896997723047&lt;/code>&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>You don&amp;rsquo;t need to collect the terracotta blocks, just destroy them.&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.&lt;/li>
+&lt;li>You are not allowed to use commands and general TASing rules apply, that is: If it&amp;rsquo;s not possible in vanilla, it&amp;rsquo;s not allowed in TASing.&lt;/li>
+&lt;li>You may use the duping functionality of TASTools&lt;/li>
+&lt;li>Optifine is allowed, even the zoom&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;li>For simplicity sake please do not look for the best vanilla spawn&amp;hellip; Forge always spawns at the same place in vanilla and that&amp;rsquo;s easier to check&lt;/li>
+&lt;/ul>
+&lt;p>Deadline: Wednesday 25th of November 8pm (GMT)
+&lt;figure class="screenshot">&lt;img src="../thumbnails/Preview1.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Task 2</title><link>https://test.minecrafttas.com/tas-comp/results/task2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task2/</guid><description>&lt;p>&lt;em>Announced on 02.12.2020&lt;/em>&lt;/p>
+&lt;p>Start a bakery%&lt;br>
+Task: Create all baked goods in Minecraft (cake, cookie, piece of bread, pumpkin pie) without the use of villagers&lt;br>
+Version: 1.12.2&lt;br>
+Start on the world file below&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitchless! Duping is not allowed, except duping buckets, to make it not too long. You are allowed to dupe either empty buckets or filled buckets.&lt;/li>
+&lt;li>It is not allowed to abuse invulnerability frames after joining&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game. However normal zombie or skeleton drops are allowed to be manipulated, such as a carrot from a zombie or an enchanted bow from a skeleton&lt;/li>
+&lt;li>The time in the world has been advanced to night time using /tickrate, so chickens have already laid an egg&lt;/li>
+&lt;li>Time stops when all items are in your inventory, it needs to be in an inventory slot and not held with the cursor&lt;/li>
+&lt;li>Optifine is allowed, even the zoom, but keep it epilepsy friendly (Looking at you Lid)&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble. Same goes for submitting your TAS.&lt;/p></description></item><item><title>Task 3</title><link>https://test.minecrafttas.com/tas-comp/results/task3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task3/</guid><description>&lt;p>&lt;em>Announced on 12.03.2021&lt;/em>&lt;/p>
+&lt;p>Stack of Lime Wool%&lt;br>
+Task: Obtain a stack of lime wool set seed glitched&lt;/p>
+&lt;p>Version: 1.16.1&lt;/p>
+&lt;p>Seed: &lt;code>16327378876057492&lt;/code>&lt;/p>
+&lt;p>Starting location: 18 63 27. Just generate a world with allow cheats to true, type in /tp 18 63 27 and make a savestate&lt;/p>
+&lt;p>Difficulty: Easy&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitched&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game. However normal zombie or skeleton drops are allowed to be manipulated, such as a carrot from a zombie or an enchanted bow from a skeleton&lt;/li>
+&lt;li>Time starts on world load without setup (e.g. /tp) this is to prevent people waiting until night time before starting the timer&lt;/li>
+&lt;li>Time stops when you obtain a stack of lime wool. If it&amp;rsquo;s in your inventory and not in your hotbar, open the inventory to confirm that you obtained it. After that the time will stop&lt;/li>
+&lt;li>Allowed mods: Optifine, Optifabric, FabricAPI, Fabric TAS, Jellysquid optimization mods and/or TASTickratechanger-fabric if you want to make it harder for yourself.
+Do not code your own mods to gain an advantage! This is not a coding competition!&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Please don&amp;rsquo;t add a timer to your video, I will add one myself anyway&amp;hellip; Doesn&amp;rsquo;t mean you are not allowed to time your run and write the time elsewhere&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble. Same goes for submitting your TAS.&lt;/p></description></item><item><title>Task 4</title><link>https://test.minecrafttas.com/tas-comp/results/task4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4/</guid><description>&lt;p>&lt;em>Announced on 19.11.2021&lt;/em>&lt;/p>
+&lt;p>Burnout%&lt;br>
+Task: Make a redstone torch reach the burnout state&lt;/p>
+&lt;p>Version: 1.12.2&lt;/p>
+&lt;p>Seed: &lt;code>-8599623488174955388&lt;/code>&lt;/p>
+&lt;p>Starting location: 0 79 0. (Should be no teleporting necessary)&lt;/p>
+&lt;p>Difficulty: Peaceful&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitchless&lt;/li>
+&lt;li>The redstone torch has to be placed on top or on the side of bedrock&lt;/li>
+&lt;li>It is a requirement that you play with the TorchBurnout mod uploaded below this message. This will send a chat message once a redstone torch is burned out.&lt;/li>
+&lt;li>Time starts on world load without setup.&lt;/li>
+&lt;li>Time stops when a burnout notification in chat appears and the torch was placed on bedrock&lt;/li>
+&lt;li>Allowed mods: Optifine, LoTAS1.12.2-2.0.0, LoTAS-GamerEdition, TorchBurnout-1.0.&lt;/li>
+&lt;li>Do not code your own mods to gain an advantage! This is not a coding competition!&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Please don&amp;rsquo;t add a timer to your video, I will add one myself anyway&amp;hellip; Doesn&amp;rsquo;t mean you are not allowed to time your run and write the time elsewhere&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble.&lt;/p></description></item><item><title>Task 4.5</title><link>https://test.minecrafttas.com/tas-comp/results/task4.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4.5/</guid><description>&lt;p>&lt;em>Announced on 15.07.2023&lt;/em>&lt;/p>
+&lt;p>&lt;em>This task was part of the Multi-Game TAS Competition find more about that here:&lt;br>
+&lt;a href="https://discord.gg/PbY433kFQN">https://discord.gg/PbY433kFQN&lt;/a>&lt;/em>&lt;/p>
+&lt;h1 id="task-45---selfie">TASk 4.5 - Selfie%&lt;/h1>
+&lt;p>Take one or more ingame screenshot(s) in double F5 mode of 3 subjects:&lt;/p>
+&lt;ol>
+&lt;li>Of yourself wearing a fancy hat (Wearing a helmet with an armor trim or colored leather cap)&lt;/li>
+&lt;li>Of yourself, while riding an entity&lt;/li>
+&lt;li>Of yourself, being within 4 blocks distance to a hostile enemy. The enemy has to have aggro on you, passive endermen don&amp;rsquo;t count. The entire face of the enemy must be visible in the photo.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Seed:&lt;/strong>&lt;code>3658048797331685473&lt;/code>&lt;br>
+&lt;strong>Difficulty:&lt;/strong>&lt;code>Easy&lt;/code>&lt;br>
+&lt;strong>Version:&lt;/strong>&lt;code>1.19.4 + 1.20 Experimental Datapack&lt;/code>&lt;br>
+&lt;strong>StartPosition:&lt;/strong> &lt;code>-499 67 79&lt;/code> | &lt;code>/tp -499 67 79&lt;/code>&lt;br>
+&lt;strong>Type:&lt;/strong> Glitchless! No avoid taking damage and item duping!&lt;/p></description></item><item><title>Task5</title><link>https://test.minecrafttas.com/tas-comp/results/task5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task5/</guid><description>&lt;p>&lt;em>Announced on 17.11.2023&lt;/em>&lt;/p>
+&lt;h1 id="task-5---itemgreed">TASk 5 - ItemGreed%&lt;/h1>
+&lt;p>You have 30 seconds. Collect as many unique items as possible. Highest item count wins!&lt;/p>
+&lt;p>Items are counted when entering the inventory, you don&amp;rsquo;t have to keep the items for it to count.&lt;/p>
+&lt;p>&lt;strong>World:&lt;/strong> &lt;code>Use the world download below&lt;/code>
+&lt;strong>Difficulty:&lt;/strong> &lt;code>Easy&lt;/code>
+&lt;strong>Version:&lt;/strong> &lt;code>1.18.2&lt;/code>
+&lt;strong>Type:&lt;/strong> Glitched!&lt;/p>
+&lt;h2 id="additional-info">Additional Info&lt;/h2>
+&lt;ul>
+&lt;li>Enderman teleportation manipulation is &lt;strong>NOT&lt;/strong> allowed. However, enderman spawn manipulation is allowed.&lt;/li>
+&lt;li>Spawning zombies or skeletons with armor or tools/weapons is &lt;strong>NOT&lt;/strong> allowed. However, usual zombie or skeleton drops (arrows, bows, potato) are allowed.&lt;/li>
+&lt;li>The option &amp;ldquo;remove pearl delay&amp;rdquo; is &lt;strong>NOT&lt;/strong> allowed for this run.&lt;/li>
+&lt;li>It is required that you show the chat message that is printed once the timer runs out.&lt;/li>
+&lt;/ul>
+&lt;h2 id="allowed-mods">Allowed Mods&lt;/h2>
+&lt;ul>
+&lt;li>LoTAS-1.18.2-2.1.2task5 (Download below!)&lt;/li>
+&lt;li>Sodium 0.4.1 (&lt;a href="https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar">https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar&lt;/a>)&lt;/li>
+&lt;li>Lithium (&lt;a href="https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar">https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar&lt;/a>)&lt;/li>
+&lt;li>LazyDFU 0.1.2 (&lt;a href="https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar">https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="submission">Submission&lt;/h2>
+&lt;p>DM &lt;code>@TAS Competition&lt;/code> with &lt;code>!submit &amp;lt;youtubelink&amp;gt;&lt;/code>
+When submitting, include the photos you took, by uploading them in the submission message.
+To send off your submission, react with a 📨 to the bot message!&lt;/p></description></item></channel></rss>

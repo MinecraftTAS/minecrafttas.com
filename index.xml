@@ -1,59 +1,279 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://test.minecrafttas.com/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Non Playback</title><link>https://test.minecrafttas.com/tutorials/non-playback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/non-playback/</guid><description>The basics Instead of choosing each input per frame and play back the TAS at the end, non-playback TASing is the act of screen recording yourself speedrunning, but setting the game to slow motion.
-Later in video editing, you speed up the footage from slow motion to normal speed.
-The result is a video in normal speed, but the player has better reaction times.
-Additionally you may use savestates, which is the ability to create a restore point at any time during your run and if you fail at something, you can reload the savestate to try again.</description></item><item><title>Playback</title><link>https://test.minecrafttas.com/tutorials/playback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/playback/</guid><description>What are playback TASes? Most TASes that you will see are made using some form of playback using an emulator with an option called movie playback which allows you to directly playback your TASes in real time.
-Playback of these movies require no external tampering (e.g hacks/cheats), to run properly as it is the emulator/console reading a series of inputs from an input file like a player piano.
-What are the benefits of playback TASing?</description></item><item><title>Tools</title><link>https://test.minecrafttas.com/tutorials/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/tools/</guid><description>Here is a list of commonly used tools in Minecraft TASing&amp;hellip; While you may recognise some of these tools from emulator TASing, the implementation in Minecraft is most likely completely different.
-Tickratechanger This is the name of the module used to slow down or speed up the game speed. As many games, Minecraft runs on a tick based system, which is different to for example SM64, which runs on a frame based system&amp;hellip;</description></item><item><title>Setup with Minecraft Launcher</title><link>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</guid><description>MC version 1.14+ (For versions below 1.14 click here) We use the Fabric modloader for mods in 1.14+
-Installing Fabric Download the installer from FabricMC. (Only download from this website!) Run the installer A window should appear Here you can select your Minecraft version as well as the Loader Version. The Loader should always be set to the newest version, some bugs may occur on old versions. Create Profile will automatically create a new profile in your Minecraft launcher.</description></item><item><title>Setup with MultiMC</title><link>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</guid><description>MultiMC is an open source Minecraft launcher with additional functionalities compared to the vanilla launcher
-We suggest checking out the official Website
-The main differences is that you can create multiple &amp;ldquo;instances&amp;rdquo; or minecraft, each with their own .minecraft/ folder. This means each instance can have a completely different minecraft installation, be it a different version, forge, fabric, different mods as opposed to only one mods folder in the vanilla launcher.</description></item><item><title>Java Setup</title><link>https://test.minecrafttas.com/tutorials/installation/setup_java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_java/</guid><description>Some Minecraft versions require different Java versions to run and for applications like MultiMC, you need to install java yourself.
-By the time of writing this, Minecraft 1.18.2 is the latest version and the latest Java version is Java 18 (which is like a month old&amp;hellip; I will still use 17 for now)
-Some things to point out:
-The java requirements are: Minecraft up to 1.12.2 requires Java 8. Minecraft 1.</description></item><item><title>LoTAS</title><link>https://test.minecrafttas.com/downloads/non-playback/lotas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/non-playback/lotas/</guid><description>A non-playback mod for versions 1.8.9-1.20.1
-Features Tickratechanger Tickrate 0/Pause server and client Item duplication (Duping) Savestates Drop Manipulation Dragon Manipulation Spawn Manipulation Ingame timer And more!</description></item><item><title>TASmod</title><link>https://test.minecrafttas.com/downloads/playback/tasmod/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod/</guid><description>The main playback mod, currently only for version 1.12.2
-Features Tickratechanger Tickrate 0/Pause server and client Item duplication (Duping) Fast Savestates</description></item><item><title>TASmod-OG</title><link>https://test.minecrafttas.com/downloads/playback/tasmod-og/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod-og/</guid><description>Experimental TASmod version for MC version 1.0</description></item><item><title>Installation</title><link>https://test.minecrafttas.com/tas-battle/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-battle/installation/</guid><description>In contrast to plugins, TAS-Battle requires a &amp;ldquo;clientside&amp;rdquo; mod to enable slow motion in Minecraft.
-For that reason you need to install this mod yourself.
-Installing in the vanilla launcher Head over to https://fabricmc.net/use/installer/ Click &amp;ldquo;Download for Windows&amp;rdquo;. Open the downloaded file. Select &amp;ldquo;1.19.4&amp;rdquo; as the Minecraft version. The loader version should be always kept at the newest Next we need to download the required mods: TAS-Battle: https://data.mgnet.work/tasbattle/client.jar Put them into .</description></item><item><title>Rules</title><link>https://test.minecrafttas.com/tas-comp/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/rules/</guid><description>Do NOT talk about your submission, whether it&amp;rsquo;s your time, strats or anything else. Not even a hint that you found the best strat ever. Do NOT leak the task to non participants, bystanders will discuss new strats that participants can use as an advantage. You may resubmit a run within the submission period. The submission has to follow the task rules to be valid. Organisers may point out rule breaks so you can resubmit a valid run, but don&amp;rsquo;t always count on that.</description></item><item><title>Task 1</title><link>https://test.minecrafttas.com/tas-comp/results/task1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task1/</guid><description>Announced on 18.11.2020
-From now on, any strat leaking will result in disqualification, also do not talk about the tasks outside of tc-general-task1
-Tomb Destroyer%
-Task: Destroy every (coloured) terracotta block in and outside a desert temple.
-Version: 1.12.2
-Seed: -2579494896997723047
-Additional Information:
-You don&amp;rsquo;t need to collect the terracotta blocks, just destroy them. It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 2</title><link>https://test.minecrafttas.com/tas-comp/results/task2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task2/</guid><description>Announced on 02.12.2020
-Start a bakery%
-Task: Create all baked goods in Minecraft (cake, cookie, piece of bread, pumpkin pie) without the use of villagers
-Version: 1.12.2
-Start on the world file below
-Additional Information:
-Glitchless! Duping is not allowed, except duping buckets, to make it not too long. You are allowed to dupe either empty buckets or filled buckets. It is not allowed to abuse invulnerability frames after joining It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 3</title><link>https://test.minecrafttas.com/tas-comp/results/task3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task3/</guid><description>Announced on 12.03.2021
-Stack of Lime Wool%
-Task: Obtain a stack of lime wool set seed glitched
-Version: 1.16.1
-Seed: 16327378876057492
-Starting location: 18 63 27. Just generate a world with allow cheats to true, type in /tp 18 63 27 and make a savestate
-Difficulty: Easy
-Additional Information:
-Glitched It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.</description></item><item><title>Task 4</title><link>https://test.minecrafttas.com/tas-comp/results/task4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4/</guid><description>Announced on 19.11.2021
-Burnout%
-Task: Make a redstone torch reach the burnout state
-Version: 1.12.2
-Seed: -8599623488174955388
-Starting location: 0 79 0. (Should be no teleporting necessary)
-Difficulty: Peaceful
-Additional Information:
-Glitchless The redstone torch has to be placed on top or on the side of bedrock It is a requirement that you play with the TorchBurnout mod uploaded below this message. This will send a chat message once a redstone torch is burned out.</description></item><item><title>Task 4.5</title><link>https://test.minecrafttas.com/tas-comp/results/task4.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4.5/</guid><description>Announced on 15.07.2023
-This task was part of the Multi-Game TAS Competition find more about that here:
-https://discord.gg/PbY433kFQN
-TASk 4.5 - Selfie% Take one or more ingame screenshot(s) in double F5 mode of 3 subjects:
-Of yourself wearing a fancy hat (Wearing a helmet with an armor trim or colored leather cap) Of yourself, while riding an entity Of yourself, being within 4 blocks distance to a hostile enemy. The enemy has to have aggro on you, passive endermen don&amp;rsquo;t count.</description></item><item><title>Why are squids evil?</title><link>https://test.minecrafttas.com/misc/squidsareevil/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/misc/squidsareevil/</guid><description>You may have come across a text saying SQUIDS ARE EVIL
-If you still think these creatures are harmless and don&amp;rsquo;t want to hurt you, here is some advice for you:
-In Minecraft TASing, we have to deal a lot with the randomness of the game. When playing back inputs, if you kill a mob (preferably a squid) and it drops a different item than it did when recording your inputs, then you are bound to run into some problems&amp;hellip;</description></item><item><title>Server Icon</title><link>https://test.minecrafttas.com/misc/history-corner/server-icon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/misc/history-corner/server-icon/</guid><description>written by Scribble
-There has been quite a few changes to our server icon, each with an interesting history!
-Creation of the current icon The beginning Back when there was only an MT as the &amp;ldquo;server icon&amp;rdquo;, we struggeled to find a fitting icon for Minecraft TASing: Having a clock as an icon wasn&amp;rsquo;t actually a bad idea, however &amp;ldquo;only&amp;rdquo; a clock seemed a bit lame to me.
-2 days after I created the server, I was invited to a CTM-Speedrunning Discord (which you can find in Discords), which had the following server icon: I took some inspiration from that and in a few minutes I created this: After presenting the idea, Pesud came up with the following:</description></item><item><title>Task5</title><link>https://test.minecrafttas.com/tas-comp/results/task5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task5/</guid><description>Announced on 17.11.2023
-TASk 5 - ItemGreed% You have 30 seconds. Collect as many unique items as possible. Highest item count wins!
-Items are counted when entering the inventory, you don&amp;rsquo;t have to keep the items for it to count.
-World: Use the world download below Difficulty: Easy Version: 1.18.2 Type: Glitched!
-Additional Info Enderman teleportation manipulation is NOT allowed. However, enderman spawn manipulation is allowed. Spawning zombies or skeletons with armor or tools/weapons is NOT allowed.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://test.minecrafttas.com/</link><description>Recent content on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Non Playback</title><link>https://test.minecrafttas.com/tutorials/non-playback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/non-playback/</guid><description>&lt;h2 id="the-basics">The basics&lt;/h2>
+&lt;p>Instead of choosing each input per frame and play back the TAS at the end, non-playback TASing is the act of screen recording &lt;em>yourself&lt;/em> speedrunning, but setting the game to &lt;em>slow motion&lt;/em>.&lt;/p>
+&lt;p>Later in video editing, you &lt;em>speed up&lt;/em> the footage from slow motion to normal speed.&lt;/p>
+&lt;p>The result is a video in normal speed, but the player has better reaction times.&lt;/p>
+&lt;p>Additionally you may use &lt;strong>savestates&lt;/strong>, which is the ability to create a restore point at any time during your run and if you fail at something, you can reload the savestate to try again.&lt;/p></description></item><item><title>Playback</title><link>https://test.minecrafttas.com/tutorials/playback/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/playback/</guid><description>&lt;h2 id="what-are-pb-tases">What are playback TASes?&lt;/h2>
+&lt;p>Most TASes that you will see are made using some form of playback using an &lt;a href="https://en.wikipedia.org/wiki/Emulator" target=_blank>emulator&lt;/a> with an option called movie playback which allows you to directly playback your TASes in &lt;em>real time&lt;/em>.&lt;/p>
+&lt;p>Playback of these movies require no external tampering (e.g hacks/cheats), to run properly as it is the emulator/console reading a series of inputs from an input file like a &lt;a href="https://www.youtube.com/watch?v=aseMAEctM1s&amp;amp;t=15s" target=_blank>player piano&lt;/a>.&lt;/p>
+&lt;h2 id="benefits">What are the benefits of playback TASing?&lt;/h2>
+&lt;h3 id="1-ease-of-modification">1. Ease of modification&lt;/h3>
+&lt;p>Non-playback TASes are unable to modify any inputs in specific sections without having to restart from a savestate. This can be frustrating, especially in places where you can&amp;rsquo;t savestate (Such as in chests or in your inventory). With playback, you can redo specific parts of savestates to refine it however you like through a GUI.&lt;/p></description></item><item><title>Tools</title><link>https://test.minecrafttas.com/tutorials/tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/tools/</guid><description>&lt;p>Here is a list of commonly used tools in Minecraft TASing&amp;hellip; While you may recognise some of these tools from emulator TASing, the implementation in Minecraft is most likely completely different.&lt;/p>
+&lt;h2 id="tickratechanger">Tickratechanger&lt;/h2>
+&lt;p>This is the name of the module used to slow down or speed up the game speed. As many games, Minecraft runs on a tick based system, which is different to for example SM64, which runs on a frame based system&amp;hellip;&lt;/p></description></item><item><title>Setup with Minecraft Launcher</title><link>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</guid><description>&lt;h2 id="1-14-4">MC version 1.14+&lt;/h2>
+&lt;p>(For versions below 1.14 click &lt;a href="#1-12-2">here&lt;/a>)
+We use the Fabric modloader for mods in 1.14+&lt;/p>
+&lt;h3 id="installing-fabric">Installing Fabric&lt;/h3>
+&lt;ol>
+&lt;li>Download the installer from &lt;a href="https://fabricmc.net/use/installer/" target=_blank>FabricMC&lt;/a>. (&lt;strong>Only download from this website!&lt;/strong>)
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/chrome_ytdtqQQCTa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Run the installer&lt;/li>
+&lt;li>A window should appear
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/javaw_3wDzbdLJaS.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Here you can select your Minecraft version as well as the &lt;code>Loader Version&lt;/code>. The Loader should always be set to the newest version, some bugs may occur on old versions. &lt;code>Create Profile&lt;/code> will automatically create a new profile in your Minecraft launcher.&lt;/li>
+&lt;li>Open your Minecraft launcher, a new profile should&amp;rsquo;ve been added to the dropdown menu
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/Minecraft_j4svmjk50e.png">
+&lt;/figure>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="installing-fabric-mods">Installing Fabric mods&lt;/h3>
+&lt;ol>
+&lt;li>Download the mods you want. If you are here for Tool Assisted Speedrunning, you can head to &lt;a href="https://test.minecrafttas.com/downloads/" target=_blank>downloads&lt;/a>).&lt;br>
+&lt;strong>All mods have to match the Minecraft version you want to play in. Mods for 1.17 don&amp;rsquo;t work on 1.18!&lt;/strong>&lt;/li>
+&lt;li>Go to the &lt;code>.minecraft/&lt;/code> directory&lt;/li>
+&lt;li>Put the .jar files in the &lt;code>mods/&lt;/code> folder. If there is no folder, create one and name it &lt;code>mods/&lt;/code>&lt;/li>
+&lt;li>&lt;strong>You can&amp;rsquo;t mix Fabric and Forge mods! Remove all Forge mods from the mods folder!&lt;/strong>&lt;/li>
+&lt;li>Start Minecraft from the launcher on the new profile.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="1-12-2">MC versions 1.8.9 - 1.12.2&lt;/h2>
+&lt;p>We use the MinecraftForge modloader for mods in 1.12.2-
+In this, we will install it for MC Version 1.12.2&lt;/p></description></item><item><title>Setup with MultiMC</title><link>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</guid><description>&lt;p>MultiMC is an open source Minecraft launcher with additional functionalities compared to the &lt;a href="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/">vanilla launcher&lt;/a>&lt;/p>
+&lt;p>We suggest checking out the &lt;a href="https://multimc.org" target=_blank>official Website&lt;/a>&lt;/p>
+&lt;p>The main differences is that you can create multiple &amp;ldquo;instances&amp;rdquo; or minecraft, each with their own .minecraft/ folder.
+This means each instance can have a completely different minecraft installation, be it a different version, forge, fabric, different mods as opposed to only one mods folder in the vanilla launcher.&lt;/p></description></item><item><title>Java Setup</title><link>https://test.minecrafttas.com/tutorials/installation/setup_java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_java/</guid><description>&lt;p>Some Minecraft versions require different Java versions to run and for applications like MultiMC, you need to install java yourself.&lt;br>
+By the time of writing this, Minecraft 1.18.2 is the latest version and the latest Java version is Java 18 (which is like a month old&amp;hellip; I will still use 17 for now)&lt;/p>
+&lt;p>Some things to point out:&lt;/p>
+&lt;ul>
+&lt;li>The java requirements are:
+&lt;ul>
+&lt;li>Minecraft up to 1.12.2 requires Java 8.&lt;/li>
+&lt;li>Minecraft 1.14.4-1.16.5 require at least Java 8.&lt;/li>
+&lt;li>Minecraft 1.17-1.17.1 require at least Java 16, but Java 17 still works.&lt;/li>
+&lt;li>Minecraft 1.18+ require at least Java 17.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>You will sometimes see 2 Java versions that you can install:
+&lt;ul>
+&lt;li>The Java Runtime Environment (JRE), which is an obsolete &amp;ldquo;slim&amp;rdquo; version of java for basic java programs.&lt;/li>
+&lt;li>The Java Development Kit (JDK), which already includes the JRE&lt;/li>
+&lt;li>The JDK is used to write java programs and Minecraft mods&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>We will use the java binaries of &lt;a href="https://adoptium.net" target=_blank>Adoptium.net&lt;/a>. If you think this is wrong and we should use something else, message us on discord.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>You should always choose the JDK rather than JRE, since it is required by some mods!&lt;/strong>&lt;/p></description></item><item><title>LoTAS</title><link>https://test.minecrafttas.com/downloads/non-playback/lotas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/non-playback/lotas/</guid><description>&lt;p>A non-playback mod for versions 1.8.9-1.20.1&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Tickratechanger&lt;/li>
+&lt;li>Tickrate 0/Pause server and client&lt;/li>
+&lt;li>Item duplication (Duping)&lt;/li>
+&lt;li>Savestates&lt;/li>
+&lt;li>Drop Manipulation&lt;/li>
+&lt;li>Dragon Manipulation&lt;/li>
+&lt;li>Spawn Manipulation&lt;/li>
+&lt;li>Ingame timer&lt;/li>
+&lt;li>And more!&lt;/li>
+&lt;/ul>
+
+
+&lt;a href="https://github.com/MinecraftTAS/LoTAS/releases">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/DownloadButton.svg" height="80" alt="Download Button">&lt;/a>
+&lt;a href="https://github.com/MinecraftTAS/LoTAS">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a>
+&lt;a href="https://www.curseforge.com/minecraft/mc-mods/lotas">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/CurseForge.svg" height="80" alt="Curseforge">&lt;/a></description></item><item><title>TASmod</title><link>https://test.minecrafttas.com/downloads/playback/tasmod/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod/</guid><description>&lt;p>The main playback mod, currently only for version 1.12.2&lt;/p>
+&lt;h4 id="features">Features&lt;/h4>
+&lt;ul>
+&lt;li>Tickratechanger&lt;/li>
+&lt;li>Tickrate 0/Pause server and client&lt;/li>
+&lt;li>Item duplication (Duping)&lt;/li>
+&lt;li>Fast Savestates&lt;/li>
+&lt;/ul>
+
+
+&lt;a href="https://github.com/MinecraftTAS/TASmod/releases">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/DownloadButton.svg" height="80" alt="Download Button">&lt;/a>
+&lt;a href="https://github.com/MinecraftTAS/TASmod/">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a>
+&lt;a href="https://www.curseforge.com/minecraft/mc-mods/tasmod">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/CurseForge.svg" height="80" alt="Curseforge">&lt;/a></description></item><item><title>TASmod-OG</title><link>https://test.minecrafttas.com/downloads/playback/tasmod-og/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/downloads/playback/tasmod-og/</guid><description>&lt;p>Experimental TASmod version for MC version 1.0&lt;/p>
+
+
+&lt;a href="https://github.com/MinecraftTAS/TASmod-OG">&lt;img class="inlineBlock border hovered"
+		src="https://test.minecrafttas.com/images/Github-Mark.svg" height="80" alt="GitHub logo">&lt;/a></description></item><item><title>Installation</title><link>https://test.minecrafttas.com/tas-battle/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-battle/installation/</guid><description>&lt;p>In contrast to plugins, TAS-Battle requires a &amp;ldquo;clientside&amp;rdquo; mod to enable slow motion in Minecraft.&lt;br>
+For that reason you need to install this mod yourself.&lt;/p>
+&lt;h2 id="installing-in-the-vanilla-launcher">Installing in the vanilla launcher&lt;/h2>
+&lt;ol>
+&lt;li>Head over to &lt;a href="https://fabricmc.net/use/installer/">https://fabricmc.net/use/installer/&lt;/a>&lt;/li>
+&lt;li>Click &amp;ldquo;Download for Windows&amp;rdquo;. &lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tas-battle/installation/chrome_l3kI2GxWQa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Open the downloaded file.&lt;/li>
+&lt;li>Select &amp;ldquo;1.19.4&amp;rdquo; as the Minecraft version. The loader version should be always kept at the newest &lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tas-battle/installation/javaw_cbhrXLYhqa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Next we need to download the required mods:
+&lt;ul>
+&lt;li>TAS-Battle: &lt;a href="https://data.mgnet.work/tasbattle/client.jar">https://data.mgnet.work/tasbattle/client.jar&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Put them into &lt;code>.minecraft/mods/&lt;/code>.&lt;br>
+&lt;strong>Remove mods from other Minecraft Versions from this folder, otherwise the game might not start!&lt;/strong>&lt;/li>
+&lt;li>Start the Minecraft launcher, select the correct profile and start the game.&lt;/li>
+&lt;/ol>
+&lt;h2 id="installing-for-multimc">Installing for MultiMC&lt;/h2>
+&lt;p>MultiMC is an alternative Minecraft-Launcher that allows you to create seperate .minecraft folders/instances.&lt;/p></description></item><item><title>Rules</title><link>https://test.minecrafttas.com/tas-comp/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/rules/</guid><description>&lt;ol>
+&lt;li>Do &lt;strong>NOT&lt;/strong> talk about your submission, whether it&amp;rsquo;s your time, strats or anything else. Not even a hint that you found the best strat ever.&lt;/li>
+&lt;li>Do &lt;strong>NOT&lt;/strong> leak the task to non participants, bystanders will discuss new strats that participants can use as an advantage.&lt;/li>
+&lt;li>You may resubmit a run within the submission period.&lt;/li>
+&lt;li>The submission has to follow the task rules to be valid. Organisers may point out rule breaks so you can resubmit a valid run, but don&amp;rsquo;t always count on that.&lt;br>
+Purposefully breaking the rules and submitting it will count as a meme run, check the special rules for that&lt;/li>
+&lt;li>Do &lt;strong>NOT&lt;/strong> code your own mods or tools just for this competition. This is not a coding competition and the best tools win.&lt;/li>
+&lt;li>Working as a team is allowed, but announce all team members when you participate.
+&lt;ul>
+&lt;li>You are &lt;strong>not&lt;/strong> allowed to play the task in multiplayer on a server&lt;/li>
+&lt;li>You are allowed to discuss strats in your team&lt;/li>
+&lt;li>Segments from multiple team members stitched together are allowed (e.g. by sharing savestates)&lt;/li>
+&lt;li>Only one person has to submit the run, but mention all team members in the submission notes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>Rulebreakers&lt;/em> will be disqualified and may re-join once the next round starts. In severe cases this may lead to a ban from the discord.&lt;/p></description></item><item><title>Task 1</title><link>https://test.minecrafttas.com/tas-comp/results/task1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task1/</guid><description>&lt;p>&lt;em>Announced on 18.11.2020&lt;/em>&lt;/p>
+&lt;p>From now on, any strat leaking will result in disqualification, also do not talk about the tasks outside of tc-general-task1&lt;br>
+Tomb Destroyer%&lt;br>
+Task: Destroy every (coloured) terracotta block in and outside a desert temple.&lt;/p>
+&lt;p>Version: 1.12.2&lt;/p>
+&lt;p>Seed: &lt;code>-2579494896997723047&lt;/code>&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>You don&amp;rsquo;t need to collect the terracotta blocks, just destroy them.&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game.&lt;/li>
+&lt;li>You are not allowed to use commands and general TASing rules apply, that is: If it&amp;rsquo;s not possible in vanilla, it&amp;rsquo;s not allowed in TASing.&lt;/li>
+&lt;li>You may use the duping functionality of TASTools&lt;/li>
+&lt;li>Optifine is allowed, even the zoom&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;li>For simplicity sake please do not look for the best vanilla spawn&amp;hellip; Forge always spawns at the same place in vanilla and that&amp;rsquo;s easier to check&lt;/li>
+&lt;/ul>
+&lt;p>Deadline: Wednesday 25th of November 8pm (GMT)
+&lt;figure class="screenshot">&lt;img src="../thumbnails/Preview1.jpg">
+&lt;/figure>
+&lt;/p></description></item><item><title>Task 2</title><link>https://test.minecrafttas.com/tas-comp/results/task2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task2/</guid><description>&lt;p>&lt;em>Announced on 02.12.2020&lt;/em>&lt;/p>
+&lt;p>Start a bakery%&lt;br>
+Task: Create all baked goods in Minecraft (cake, cookie, piece of bread, pumpkin pie) without the use of villagers&lt;br>
+Version: 1.12.2&lt;br>
+Start on the world file below&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitchless! Duping is not allowed, except duping buckets, to make it not too long. You are allowed to dupe either empty buckets or filled buckets.&lt;/li>
+&lt;li>It is not allowed to abuse invulnerability frames after joining&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game. However normal zombie or skeleton drops are allowed to be manipulated, such as a carrot from a zombie or an enchanted bow from a skeleton&lt;/li>
+&lt;li>The time in the world has been advanced to night time using /tickrate, so chickens have already laid an egg&lt;/li>
+&lt;li>Time stops when all items are in your inventory, it needs to be in an inventory slot and not held with the cursor&lt;/li>
+&lt;li>Optifine is allowed, even the zoom, but keep it epilepsy friendly (Looking at you Lid)&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble. Same goes for submitting your TAS.&lt;/p></description></item><item><title>Task 3</title><link>https://test.minecrafttas.com/tas-comp/results/task3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task3/</guid><description>&lt;p>&lt;em>Announced on 12.03.2021&lt;/em>&lt;/p>
+&lt;p>Stack of Lime Wool%&lt;br>
+Task: Obtain a stack of lime wool set seed glitched&lt;/p>
+&lt;p>Version: 1.16.1&lt;/p>
+&lt;p>Seed: &lt;code>16327378876057492&lt;/code>&lt;/p>
+&lt;p>Starting location: 18 63 27. Just generate a world with allow cheats to true, type in /tp 18 63 27 and make a savestate&lt;/p>
+&lt;p>Difficulty: Easy&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitched&lt;/li>
+&lt;li>It is not allowed to manipulate the gear of zombies and skeletons (Or any other mob) to get op gear right at the start of the game. However normal zombie or skeleton drops are allowed to be manipulated, such as a carrot from a zombie or an enchanted bow from a skeleton&lt;/li>
+&lt;li>Time starts on world load without setup (e.g. /tp) this is to prevent people waiting until night time before starting the timer&lt;/li>
+&lt;li>Time stops when you obtain a stack of lime wool. If it&amp;rsquo;s in your inventory and not in your hotbar, open the inventory to confirm that you obtained it. After that the time will stop&lt;/li>
+&lt;li>Allowed mods: Optifine, Optifabric, FabricAPI, Fabric TAS, Jellysquid optimization mods and/or TASTickratechanger-fabric if you want to make it harder for yourself.
+Do not code your own mods to gain an advantage! This is not a coding competition!&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Please don&amp;rsquo;t add a timer to your video, I will add one myself anyway&amp;hellip; Doesn&amp;rsquo;t mean you are not allowed to time your run and write the time elsewhere&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble. Same goes for submitting your TAS.&lt;/p></description></item><item><title>Task 4</title><link>https://test.minecrafttas.com/tas-comp/results/task4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4/</guid><description>&lt;p>&lt;em>Announced on 19.11.2021&lt;/em>&lt;/p>
+&lt;p>Burnout%&lt;br>
+Task: Make a redstone torch reach the burnout state&lt;/p>
+&lt;p>Version: 1.12.2&lt;/p>
+&lt;p>Seed: &lt;code>-8599623488174955388&lt;/code>&lt;/p>
+&lt;p>Starting location: 0 79 0. (Should be no teleporting necessary)&lt;/p>
+&lt;p>Difficulty: Peaceful&lt;/p>
+&lt;p>Additional Information:&lt;/p>
+&lt;ul>
+&lt;li>Glitchless&lt;/li>
+&lt;li>The redstone torch has to be placed on top or on the side of bedrock&lt;/li>
+&lt;li>It is a requirement that you play with the TorchBurnout mod uploaded below this message. This will send a chat message once a redstone torch is burned out.&lt;/li>
+&lt;li>Time starts on world load without setup.&lt;/li>
+&lt;li>Time stops when a burnout notification in chat appears and the torch was placed on bedrock&lt;/li>
+&lt;li>Allowed mods: Optifine, LoTAS1.12.2-2.0.0, LoTAS-GamerEdition, TorchBurnout-1.0.&lt;/li>
+&lt;li>Do not code your own mods to gain an advantage! This is not a coding competition!&lt;/li>
+&lt;li>Resourcepacks are allowed but keep the video watchable&amp;hellip;&lt;/li>
+&lt;li>Please don&amp;rsquo;t add a timer to your video, I will add one myself anyway&amp;hellip; Doesn&amp;rsquo;t mean you are not allowed to time your run and write the time elsewhere&lt;/li>
+&lt;li>Remember to keep the raw files in case of a further investigation!&lt;/li>
+&lt;/ul>
+&lt;p>If you have questions about allowed strats dm me @Scribble.&lt;/p></description></item><item><title>Task 4.5</title><link>https://test.minecrafttas.com/tas-comp/results/task4.5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task4.5/</guid><description>&lt;p>&lt;em>Announced on 15.07.2023&lt;/em>&lt;/p>
+&lt;p>&lt;em>This task was part of the Multi-Game TAS Competition find more about that here:&lt;br>
+&lt;a href="https://discord.gg/PbY433kFQN">https://discord.gg/PbY433kFQN&lt;/a>&lt;/em>&lt;/p>
+&lt;h1 id="task-45---selfie">TASk 4.5 - Selfie%&lt;/h1>
+&lt;p>Take one or more ingame screenshot(s) in double F5 mode of 3 subjects:&lt;/p>
+&lt;ol>
+&lt;li>Of yourself wearing a fancy hat (Wearing a helmet with an armor trim or colored leather cap)&lt;/li>
+&lt;li>Of yourself, while riding an entity&lt;/li>
+&lt;li>Of yourself, being within 4 blocks distance to a hostile enemy. The enemy has to have aggro on you, passive endermen don&amp;rsquo;t count. The entire face of the enemy must be visible in the photo.&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Seed:&lt;/strong>&lt;code>3658048797331685473&lt;/code>&lt;br>
+&lt;strong>Difficulty:&lt;/strong>&lt;code>Easy&lt;/code>&lt;br>
+&lt;strong>Version:&lt;/strong>&lt;code>1.19.4 + 1.20 Experimental Datapack&lt;/code>&lt;br>
+&lt;strong>StartPosition:&lt;/strong> &lt;code>-499 67 79&lt;/code> | &lt;code>/tp -499 67 79&lt;/code>&lt;br>
+&lt;strong>Type:&lt;/strong> Glitchless! No avoid taking damage and item duping!&lt;/p></description></item><item><title>Why are squids evil?</title><link>https://test.minecrafttas.com/misc/squidsareevil/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/misc/squidsareevil/</guid><description>&lt;p>You may have come across a text saying
+
+
+&lt;p style="color:red;">SQUIDS ARE EVIL&lt;/p>
+
+If you still think these creatures are harmless and don&amp;rsquo;t want to hurt you, here is some advice for you:&lt;/p>
+&lt;p>In Minecraft TASing, we have to deal a lot with the randomness of the game.
+When playing back inputs, if you kill a mob (preferably a squid) and it drops a different item than it did when recording your inputs, then you are bound to run into some problems&amp;hellip;&lt;/p></description></item><item><title>Server Icon</title><link>https://test.minecrafttas.com/misc/history-corner/server-icon/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/misc/history-corner/server-icon/</guid><description>&lt;p>&lt;em>written by Scribble&lt;/em>&lt;/p>
+&lt;p>There has been quite a few changes to our server icon, each with an interesting history!&lt;/p>
+&lt;h1 id="creation-of-the-current-icon">Creation of the current icon&lt;/h1>
+&lt;h2 id="the-beginning">The beginning&lt;/h2>
+&lt;p>Back when there was only an &lt;strong>MT&lt;/strong> as the &amp;ldquo;server icon&amp;rdquo;, we struggeled to find a fitting icon for Minecraft TASing:
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/misc/history-corner/server-icon/fo1G2tPRBy.png">
+&lt;/figure>
+&lt;/p>
+&lt;p>Having a clock as an icon wasn&amp;rsquo;t actually a bad idea, however &amp;ldquo;only&amp;rdquo; a clock seemed a bit lame to me.&lt;/p>
+&lt;p>2 days after I created the server, I was invited to a CTM-Speedrunning Discord (which you can find in &lt;a href="https://test.minecrafttas.com/discord" target=_blank>Discords&lt;/a>),
+which had the following server icon:
+&lt;figure class="screenshot-medium">&lt;img src="https://test.minecrafttas.com/misc/history-corner/server-icon/A%20potion2.png">
+&lt;/figure>
+&lt;/p></description></item><item><title>Task5</title><link>https://test.minecrafttas.com/tas-comp/results/task5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/results/task5/</guid><description>&lt;p>&lt;em>Announced on 17.11.2023&lt;/em>&lt;/p>
+&lt;h1 id="task-5---itemgreed">TASk 5 - ItemGreed%&lt;/h1>
+&lt;p>You have 30 seconds. Collect as many unique items as possible. Highest item count wins!&lt;/p>
+&lt;p>Items are counted when entering the inventory, you don&amp;rsquo;t have to keep the items for it to count.&lt;/p>
+&lt;p>&lt;strong>World:&lt;/strong> &lt;code>Use the world download below&lt;/code>
+&lt;strong>Difficulty:&lt;/strong> &lt;code>Easy&lt;/code>
+&lt;strong>Version:&lt;/strong> &lt;code>1.18.2&lt;/code>
+&lt;strong>Type:&lt;/strong> Glitched!&lt;/p>
+&lt;h2 id="additional-info">Additional Info&lt;/h2>
+&lt;ul>
+&lt;li>Enderman teleportation manipulation is &lt;strong>NOT&lt;/strong> allowed. However, enderman spawn manipulation is allowed.&lt;/li>
+&lt;li>Spawning zombies or skeletons with armor or tools/weapons is &lt;strong>NOT&lt;/strong> allowed. However, usual zombie or skeleton drops (arrows, bows, potato) are allowed.&lt;/li>
+&lt;li>The option &amp;ldquo;remove pearl delay&amp;rdquo; is &lt;strong>NOT&lt;/strong> allowed for this run.&lt;/li>
+&lt;li>It is required that you show the chat message that is printed once the timer runs out.&lt;/li>
+&lt;/ul>
+&lt;h2 id="allowed-mods">Allowed Mods&lt;/h2>
+&lt;ul>
+&lt;li>LoTAS-1.18.2-2.1.2task5 (Download below!)&lt;/li>
+&lt;li>Sodium 0.4.1 (&lt;a href="https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar">https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar&lt;/a>)&lt;/li>
+&lt;li>Lithium (&lt;a href="https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar">https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar&lt;/a>)&lt;/li>
+&lt;li>LazyDFU 0.1.2 (&lt;a href="https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar">https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="submission">Submission&lt;/h2>
+&lt;p>DM &lt;code>@TAS Competition&lt;/code> with &lt;code>!submit &amp;lt;youtubelink&amp;gt;&lt;/code>
+When submitting, include the photos you took, by uploading them in the submission message.
+To send off your submission, react with a 📨 to the bot message!&lt;/p></description></item></channel></rss>

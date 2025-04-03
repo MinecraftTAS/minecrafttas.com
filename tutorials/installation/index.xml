@@ -1,7 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Installation on Home</title><link>https://test.minecrafttas.com/tutorials/installation/</link><description>Recent content in Installation on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tutorials/installation/index.xml" rel="self" type="application/rss+xml"/><item><title>Setup with Minecraft Launcher</title><link>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</guid><description>MC version 1.14+ (For versions below 1.14 click here) We use the Fabric modloader for mods in 1.14+
-Installing Fabric Download the installer from FabricMC. (Only download from this website!) Run the installer A window should appear Here you can select your Minecraft version as well as the Loader Version. The Loader should always be set to the newest version, some bugs may occur on old versions. Create Profile will automatically create a new profile in your Minecraft launcher.</description></item><item><title>Setup with MultiMC</title><link>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</guid><description>MultiMC is an open source Minecraft launcher with additional functionalities compared to the vanilla launcher
-We suggest checking out the official Website
-The main differences is that you can create multiple &amp;ldquo;instances&amp;rdquo; or minecraft, each with their own .minecraft/ folder. This means each instance can have a completely different minecraft installation, be it a different version, forge, fabric, different mods as opposed to only one mods folder in the vanilla launcher.</description></item><item><title>Java Setup</title><link>https://test.minecrafttas.com/tutorials/installation/setup_java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_java/</guid><description>Some Minecraft versions require different Java versions to run and for applications like MultiMC, you need to install java yourself.
-By the time of writing this, Minecraft 1.18.2 is the latest version and the latest Java version is Java 18 (which is like a month old&amp;hellip; I will still use 17 for now)
-Some things to point out:
-The java requirements are: Minecraft up to 1.12.2 requires Java 8. Minecraft 1.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Installation on Home</title><link>https://test.minecrafttas.com/tutorials/installation/</link><description>Recent content in Installation on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tutorials/installation/index.xml" rel="self" type="application/rss+xml"/><item><title>Setup with Minecraft Launcher</title><link>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/</guid><description>&lt;h2 id="1-14-4">MC version 1.14+&lt;/h2>
+&lt;p>(For versions below 1.14 click &lt;a href="#1-12-2">here&lt;/a>)
+We use the Fabric modloader for mods in 1.14+&lt;/p>
+&lt;h3 id="installing-fabric">Installing Fabric&lt;/h3>
+&lt;ol>
+&lt;li>Download the installer from &lt;a href="https://fabricmc.net/use/installer/" target=_blank>FabricMC&lt;/a>. (&lt;strong>Only download from this website!&lt;/strong>)
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/chrome_ytdtqQQCTa.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Run the installer&lt;/li>
+&lt;li>A window should appear
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/javaw_3wDzbdLJaS.png">
+&lt;/figure>
+&lt;/li>
+&lt;li>Here you can select your Minecraft version as well as the &lt;code>Loader Version&lt;/code>. The Loader should always be set to the newest version, some bugs may occur on old versions. &lt;code>Create Profile&lt;/code> will automatically create a new profile in your Minecraft launcher.&lt;/li>
+&lt;li>Open your Minecraft launcher, a new profile should&amp;rsquo;ve been added to the dropdown menu
+&lt;figure class="screenshot">&lt;img src="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/Minecraft_j4svmjk50e.png">
+&lt;/figure>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="installing-fabric-mods">Installing Fabric mods&lt;/h3>
+&lt;ol>
+&lt;li>Download the mods you want. If you are here for Tool Assisted Speedrunning, you can head to &lt;a href="https://test.minecrafttas.com/downloads/" target=_blank>downloads&lt;/a>).&lt;br>
+&lt;strong>All mods have to match the Minecraft version you want to play in. Mods for 1.17 don&amp;rsquo;t work on 1.18!&lt;/strong>&lt;/li>
+&lt;li>Go to the &lt;code>.minecraft/&lt;/code> directory&lt;/li>
+&lt;li>Put the .jar files in the &lt;code>mods/&lt;/code> folder. If there is no folder, create one and name it &lt;code>mods/&lt;/code>&lt;/li>
+&lt;li>&lt;strong>You can&amp;rsquo;t mix Fabric and Forge mods! Remove all Forge mods from the mods folder!&lt;/strong>&lt;/li>
+&lt;li>Start Minecraft from the launcher on the new profile.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="1-12-2">MC versions 1.8.9 - 1.12.2&lt;/h2>
+&lt;p>We use the MinecraftForge modloader for mods in 1.12.2-
+In this, we will install it for MC Version 1.12.2&lt;/p></description></item><item><title>Setup with MultiMC</title><link>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_multimc/</guid><description>&lt;p>MultiMC is an open source Minecraft launcher with additional functionalities compared to the &lt;a href="https://test.minecrafttas.com/tutorials/installation/setup_mclauncher/">vanilla launcher&lt;/a>&lt;/p>
+&lt;p>We suggest checking out the &lt;a href="https://multimc.org" target=_blank>official Website&lt;/a>&lt;/p>
+&lt;p>The main differences is that you can create multiple &amp;ldquo;instances&amp;rdquo; or minecraft, each with their own .minecraft/ folder.
+This means each instance can have a completely different minecraft installation, be it a different version, forge, fabric, different mods as opposed to only one mods folder in the vanilla launcher.&lt;/p></description></item><item><title>Java Setup</title><link>https://test.minecrafttas.com/tutorials/installation/setup_java/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tutorials/installation/setup_java/</guid><description>&lt;p>Some Minecraft versions require different Java versions to run and for applications like MultiMC, you need to install java yourself.&lt;br>
+By the time of writing this, Minecraft 1.18.2 is the latest version and the latest Java version is Java 18 (which is like a month old&amp;hellip; I will still use 17 for now)&lt;/p>
+&lt;p>Some things to point out:&lt;/p>
+&lt;ul>
+&lt;li>The java requirements are:
+&lt;ul>
+&lt;li>Minecraft up to 1.12.2 requires Java 8.&lt;/li>
+&lt;li>Minecraft 1.14.4-1.16.5 require at least Java 8.&lt;/li>
+&lt;li>Minecraft 1.17-1.17.1 require at least Java 16, but Java 17 still works.&lt;/li>
+&lt;li>Minecraft 1.18+ require at least Java 17.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>You will sometimes see 2 Java versions that you can install:
+&lt;ul>
+&lt;li>The Java Runtime Environment (JRE), which is an obsolete &amp;ldquo;slim&amp;rdquo; version of java for basic java programs.&lt;/li>
+&lt;li>The Java Development Kit (JDK), which already includes the JRE&lt;/li>
+&lt;li>The JDK is used to write java programs and Minecraft mods&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>We will use the java binaries of &lt;a href="https://adoptium.net" target=_blank>Adoptium.net&lt;/a>. If you think this is wrong and we should use something else, message us on discord.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>You should always choose the JDK rather than JRE, since it is required by some mods!&lt;/strong>&lt;/p></description></item></channel></rss>

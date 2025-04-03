@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TAS Competition on Home</title><link>https://test.minecrafttas.com/tas-comp/</link><description>Recent content in TAS Competition on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-comp/index.xml" rel="self" type="application/rss+xml"/><item><title>Rules</title><link>https://test.minecrafttas.com/tas-comp/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/rules/</guid><description>Do NOT talk about your submission, whether it&amp;rsquo;s your time, strats or anything else. Not even a hint that you found the best strat ever. Do NOT leak the task to non participants, bystanders will discuss new strats that participants can use as an advantage. You may resubmit a run within the submission period. The submission has to follow the task rules to be valid. Organisers may point out rule breaks so you can resubmit a valid run, but don&amp;rsquo;t always count on that.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TAS Competition on Home</title><link>https://test.minecrafttas.com/tas-comp/</link><description>Recent content in TAS Competition on Home</description><generator>Hugo</generator><language>en-gb</language><atom:link href="https://test.minecrafttas.com/tas-comp/index.xml" rel="self" type="application/rss+xml"/><item><title>Rules</title><link>https://test.minecrafttas.com/tas-comp/rules/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://test.minecrafttas.com/tas-comp/rules/</guid><description>&lt;ol>
+&lt;li>Do &lt;strong>NOT&lt;/strong> talk about your submission, whether it&amp;rsquo;s your time, strats or anything else. Not even a hint that you found the best strat ever.&lt;/li>
+&lt;li>Do &lt;strong>NOT&lt;/strong> leak the task to non participants, bystanders will discuss new strats that participants can use as an advantage.&lt;/li>
+&lt;li>You may resubmit a run within the submission period.&lt;/li>
+&lt;li>The submission has to follow the task rules to be valid. Organisers may point out rule breaks so you can resubmit a valid run, but don&amp;rsquo;t always count on that.&lt;br>
+Purposefully breaking the rules and submitting it will count as a meme run, check the special rules for that&lt;/li>
+&lt;li>Do &lt;strong>NOT&lt;/strong> code your own mods or tools just for this competition. This is not a coding competition and the best tools win.&lt;/li>
+&lt;li>Working as a team is allowed, but announce all team members when you participate.
+&lt;ul>
+&lt;li>You are &lt;strong>not&lt;/strong> allowed to play the task in multiplayer on a server&lt;/li>
+&lt;li>You are allowed to discuss strats in your team&lt;/li>
+&lt;li>Segments from multiple team members stitched together are allowed (e.g. by sharing savestates)&lt;/li>
+&lt;li>Only one person has to submit the run, but mention all team members in the submission notes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;em>Rulebreakers&lt;/em> will be disqualified and may re-join once the next round starts. In severe cases this may lead to a ban from the discord.&lt;/p></description></item></channel></rss>
